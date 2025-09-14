@@ -11,7 +11,7 @@ public class ProjetoCalculadoraIMC extends Application{
 
 	@Override
 	public void start(Stage palco){
-		String caminhoImagem = "file:///C:/Curso/Projetos/Fase1/imc.png";
+		String caminhoImagem = "file:///C:/Projetos/Fase1/imc.png";
 
 		Image imagem = new Image(caminhoImagem);
 		ImageView imageView = new ImageView(imagem);
